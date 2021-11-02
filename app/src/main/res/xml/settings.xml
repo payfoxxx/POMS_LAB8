@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="@string/font_settings">
+        <EditTextPreference
+            android:key="text_size"
+            android:title="@string/font_size_txt"
+            android:summary="@string/font_size_summary"
+            android:defaultValue="14"
+            android:inputType="number"
+            />
+        <ListPreference
+            android:key="pref_style"
+            android:title="@string/pref_style_txt"
+            android:defaultValue="1"
+            android:entries="@array/text_style"
+            android:entryValues="@array/text_style"
+            />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/color_settings">
+        <ListPreference
+            android:key="color_set"
+            android:title="@string/color_set_txt"
+            android:summary="@string/color_set_txt_sum"
+            android:defaultValue="4"
+            android:entries="@array/text_color"
+            android:entryValues="@array/text_color"/>
+    </PreferenceCategory>
+</PreferenceScreen>

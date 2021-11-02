@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lab2">
+
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Lab2">
+
+        <service
+            android:name=".viewmodel.MyService"
+            android:enabled="true"
+            android:exported="true"></service>
+
+        <activity android:name=".view.HistoryListActivity" />
+        <activity
+            android:name=".view.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".view.NextActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".view.ServiceActivity"
+            android:parentActivityName=".view.MainActivity"/>
+        <activity android:name=".view.BrowserActivity"
+            android:parentActivityName=".view.MainActivity"/>
+        <activity android:name=".view.IntentCatcher"
+            android:exported="true"
+            android:parentActivityName=".view.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="image/*"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".view.FileActivity"
+            android:parentActivityName=".view.MainActivity"/>
+        <activity android:name=".view.DataBaseActivity"
+            android:parentActivityName=".view.MainActivity"/>
+        <activity android:name=".view.SharedPreferencesActivity"
+            android:parentActivityName=".view.MainActivity"/>
+        <activity android:name=".view.GraphicActivity"
+            android:parentActivityName=".view.MainActivity"/>
+    </application>
+
+</manifest>

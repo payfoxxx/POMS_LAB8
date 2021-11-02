@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/open_history_item"
+        android:title="@string/open_history" />
+    <item
+        android:id="@+id/open_service_item"
+        android:title="@string/open_service_activity"/>
+    <item
+        android:id="@+id/open_browser_item"
+        android:title="@string/open_browser_activity"/>
+    <item
+        android:id="@+id/open_file_show_item"
+        android:title="@string/open_file_show_txt"/>
+    <item
+        android:id="@+id/open_db_activity_item"
+        android:title="@string/open_db_activity_txt"/>
+    <item
+        android:id="@+id/open_pref_shared_item"
+        android:title="@string/open_pref_shared_txt"/>
+    <item
+        android:id="@+id/open_graphic_activity_item"
+        android:title="@string/open_graphic_activity_txt"/>
+</menu>

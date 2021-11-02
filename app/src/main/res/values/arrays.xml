@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="text_style">
+        <item>@string/simple_style</item>
+        <item>@string/bold_style</item>
+        <item>@string/italic_style</item>
+    </string-array>
+    <string-array name="text_color">
+        <item>@string/red_color</item>
+        <item>@string/green_color</item>
+        <item>@string/blue_color</item>
+        <item>@string/white_color</item>
+    </string-array>
+
+</resources>

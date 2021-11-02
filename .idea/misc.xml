@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab2/app/src/main/res/layout-land/activity_main.xml" value="0.11022927689594356" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab2/app/src/main/res/layout-sw120dp/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab2/app/src/main/res/layout-sw180dp/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab2/app/src/main/res/layout-sw240dp/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab2/app/src/main/res/layout-sw320dp/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab2/app/src/main/res/layout-sw400dp/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab2/app/src/main/res/layout-sw420dp-land/activity_main.xml" value="0.16331994645247658" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab2/app/src/main/res/layout-sw600dp-land/activity_main.xml" value="0.16331994645247658" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab2/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab3/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab3/app/src/main/res/layout-land/activity_next.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab3/app/src/main/res/layout-land/fragment_number.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab3/app/src/main/res/layout-land/fragment_string.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab3/app/src/main/res/layout-sw400dp/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab3/app/src/main/res/layout-sw400dp/activity_next.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab3/app/src/main/res/layout-sw400dp/fragment_number.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab3/app/src/main/res/layout-sw400dp/fragment_string.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab3/app/src/main/res/layout-sw420dp-land/activity_main.xml" value="0.16331994645247658" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab3/app/src/main/res/layout-sw420dp-land/activity_next.xml" value="0.16331994645247658" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab3/app/src/main/res/layout-sw420dp-land/fragment_number.xml" value="0.16331994645247658" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab3/app/src/main/res/layout-sw420dp-land/fragment_string.xml" value="0.16331994645247658" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab3/app/src/main/res/layout/activity_main.xml" value="0.5972222222222222" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab3/app/src/main/res/layout/activity_next.xml" value="0.1" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab3/app/src/main/res/layout/fragment_number.xml" value="0.1" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab3/app/src/main/res/layout/fragment_string.xml" value="0.1" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab4/app/src/main/res/layout/activity_history_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab4/app/src/main/res/layout/history_list_item.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab4/app/src/main/res/menu/main_activity_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab5/app/src/main/res/layout-sw400dp/activity_main.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab5/app/src/main/res/layout/activity_browser.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab5/app/src/main/res/layout/activity_intent_catcher.xml" value="0.22146739130434784" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab5/app/src/main/res/layout/activity_main.xml" value="0.49603174603174605" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab5/app/src/main/res/layout/activity_service.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab5/app/src/main/res/layout/fragment_number.xml" value="0.49603174603174605" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab5/app/src/main/res/menu/main_activity_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab6/app/src/main/res/layout-sw400dp/fragment_number.xml" value="0.2368659420289855" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab6/app/src/main/res/layout/activity_browser.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab6/app/src/main/res/layout/activity_database.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab6/app/src/main/res/layout/activity_file.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab6/app/src/main/res/layout/activity_main.xml" value="0.5188492063492064" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab6/app/src/main/res/layout/fragment_number.xml" value="0.5188492063492064" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab6/app/src/main/res/menu/main_activity_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab6/app/src/main/res/xml/settings.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab7/app/src/main/res/layout/activity_service.xml" value="0.21422101449275363" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab7/app/src/main/res/xml/settings.xml" value="0.21422101449275363" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab8/app/src/main/res/layout-land/activity_main.xml" value="0.45692883895131087" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab8/app/src/main/res/layout-land/fragment_number.xml" value="0.45692883895131087" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab8/app/src/main/res/layout-land/fragment_string.xml" value="0.45692883895131087" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab8/app/src/main/res/layout-sw400dp/activity_main.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab8/app/src/main/res/layout-sw420dp-land/activity_main.xml" value="0.16331994645247658" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab8/app/src/main/res/layout/activity_database.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab8/app/src/main/res/layout/activity_file.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab8/app/src/main/res/layout/activity_graphic.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab8/app/src/main/res/layout/activity_history_list.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab8/app/src/main/res/layout/activity_intent_catcher.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab8/app/src/main/res/layout/activity_main.xml" value="0.4365079365079365" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab8/app/src/main/res/layout/activity_service.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab8/app/src/main/res/layout/fragment_number.xml" value="0.4365079365079365" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab8/app/src/main/res/layout/fragment_string.xml" value="0.4365079365079365" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab8/app/src/main/res/layout/history_list_item.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab8/app/src/main/res/menu/main_activity_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/v/AndroidStudioProjects/lab8/app/src/main/res/xml/settings.xml" value="0.19927536231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
